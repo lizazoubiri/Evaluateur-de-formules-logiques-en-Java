@@ -1,4 +1,4 @@
-# TP3 - Logique du premier ordre : Manipulation et évaluation de formules en Java
+# Logique du premier ordre : Manipulation et évaluation de formules en Java
 
 Ce projet a été réalisé dans le cadre du **TP3 de Logique du premier ordre (L3 Informatique - AMU)**.  
 L’objectif est de créer une bibliothèque Java permettant de **représenter, manipuler et évaluer des formules logiques** dans différentes interprétations (graphes et mots finis).
